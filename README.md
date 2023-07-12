@@ -13,7 +13,7 @@ Your Mindmaid là một tiện ích tự động hoá (còn gọi là shortcut),
 
 Bước 1: Tạo tài khoản và chatbot tại Mindmaid (https://mindmaid.ai).  Copy bot_id của chatbot mà bạn muốn thêm vào Your Mindmaid 
 
-Bước 2: Tải file cài đặt Your Mindmaid [tại đây](https://github.com/hailoc12/VN-SGPT/releases/tag/1.0.1)
+Bước 2: Tải file cài đặt Your Mindmaid [tại đây](https://github.com/AIV-Group/Your_Mindmaid/archive/refs/tags/1.0.zip)
 
 Bước 3: Click vào file workflow/Your Mindmaid.shortcut để cài đặt (bảo đảm bạn đang sử dụng một thiết bị của Apple)
 
